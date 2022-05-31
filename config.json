@@ -1,0 +1,15 @@
+{
+  "ram": [
+    {
+      "name": "cam-1",
+      "entry_address": "012FF920",
+      "exit_address": "012FF914"
+    }
+  ],
+  "processname": "teltonika_client.exe",
+  "mqtt_server": "10.3.241.100",
+  "mqtt_port": 1883,
+  "mqtt_keep_alive" :  60,
+  "mqtt_restart_time_sec": 5,
+  "publish_time_ms": 2000 
+}
