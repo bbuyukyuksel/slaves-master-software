@@ -4,7 +4,7 @@ The purpose of this project is to enslave a software released as test software a
 
 The software architecture of the project is given below
 
-![software architecture](assets\software_architecture.png)
+![software architecture](assets/software_architecture.png)
 
 We will access the RAM area that stores the input and output values of the DIST500-Visualization software and share it with the outside in order to process this data via MQTT.
 
@@ -13,7 +13,7 @@ We will access the RAM area that stores the input and output values of the DIST5
 Firstly ,setup must be installed on the virtual machine.
 The snapshot of the virtual computer is taken as inital state so that the RAM regions do not change after the installations are performed.
 
-![vm](assets\vm.png)
+![vm](assets/vm.png)
 
 ## Necessary Virtual Box Commands,
 
